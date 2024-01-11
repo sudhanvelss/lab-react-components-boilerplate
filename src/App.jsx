@@ -27,7 +27,7 @@ function App() {
 <div> 
   <Header/>
       <Main imageData={imageData}/>
-      {/* adding footer component */}
+      {}
       <GallaryFooter/> 
     </div>
   )
